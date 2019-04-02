@@ -1,22 +1,22 @@
 # Daraja C2B - Customer to business STK push - Windows, Linux and Mac
 
 (this is for the people who want to recreate the product and add their own tweaks)
-(Provide the url to the package for those who just need to use it.)
+
 
 If you are here, it means that you need a working solution right away. Well, I will cut to the chase and jump right in.
 
-### *Customer to Business payment story line.*
+### *Customer to Business payment storyline.*
 
-a. A customer iis buying a service or a product online.
+a. A customer is buying a service or a product online.
 
 b. You have provided a convinient channel to pay through m-pesa.
 
-c. When the hit "pay", You might ask for their m-pesa enabled phone number, Or have it in advance - Really up to you.
+c. When they hit "pay", You might ask for their m-pesa enabled phone number, Or have it in advance - Really up to you.
 
 d. Somewhere in your server, Did I say that I like Ubuntu, Maybe I didn't, You get the request and 
     serve an STK notifications on their cell phone (This must have been made for us with feature phones out here)
 
-e. Assuming the customer is not just initiating reqwuests to your server just to play with you,
+e. Assuming the customer is not just initiating a request to your server just to play with you,
   They enter their pin and the payment is successful.
 
 f. You get the monies to your paybill account, you honor their request and deliver that bunch of bananas they have been yearning for.
